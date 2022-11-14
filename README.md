@@ -11,3 +11,6 @@ and the fare for this time is calculated and shown on the screen with an updated
 ![image](https://user-images.githubusercontent.com/109916723/201529062-d6917941-77e7-46ae-88a2-e49abe9054b5.png)
 Note- Fare will only come more than 20 when actually the second file will be compiled after a certain time such that the fare is increased or else you can 
 simply change the entry time manually in the dup.csv file and see the fare accordingly.
+<h2>Demonstration video link for the code running in Raspberry Pi OS :</h2>
+https://drive.google.com/file/d/1cHQToIqn6eAxwBSwXka1knVVBjaEiJTq/view?usp=share_link
+
